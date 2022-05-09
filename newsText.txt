@@ -5,4 +5,4 @@ Work for next update will start around next week so stay tuned for that! It will
 Enviroment now changes dynamically depending on what season it is in real life, live!
 Example; if it's winter then trees and grass and all of that will be whiter.
 --
-!Servers will be restarted soon for a patch containing bug fixes and more!
+Trees' leaves may change colors for testing purposes, they will come back to normal after a bit.
