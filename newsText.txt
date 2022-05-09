@@ -1,1 +1,1 @@
-For testing purposes if you see this please type "sussy mogus"
+Just restarted servers for a mini patch: Added the news tab, increased taser damage, fixed scrap device crafting recipe, taser now gives a hitmark when hitting rake with it, rake blind time cap and stun time cap changed, you can no longer hide in day, compass was removed from shop.
