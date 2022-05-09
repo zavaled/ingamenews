@@ -1,1 +1,1 @@
-Welcome to the News tab! This tab is used to update players in real time about info, updates, progress etc. Every time the news text files are updated every player in the server will be notified at the bottom center of their screen so they can check out what is new on the news feed.
+For testing purposes if you see this please type "sussy mogus"
