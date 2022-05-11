@@ -6,3 +6,5 @@ Enviroment now changes dynamically depending on what season it is in real life, 
 Example; if it's winter then trees and grass and all of that will be whiter.
 --
 New QOL update on new-updated servers; remade the death effect, now your camera ragdolls at your body's pov and a text at the bottom of your screen now shows your estimate cause of death.
+--
+A low detail option will be added for low end devices soon on a later update.
