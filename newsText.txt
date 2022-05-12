@@ -1,10 +1,8 @@
-Just restarted servers for a mini patch: Added the news tab, increased taser damage, fixed scrap device crafting recipe, taser now gives a hitmark when hitting rake with it, rake blind time cap and stun time cap changed, you can no longer hide in day, compass was removed from shop.
---
-Work for next update will start around next week so stay tuned for that! It will bring many new features with it.
---
 Enviroment now changes dynamically depending on what season it is in real life, live!
 Example; if it's winter then trees and grass and all of that will be whiter.
 --
 New QOL update on new-updated servers; remade the death effect, now your camera ragdolls at your body's pov and a text at the bottom of your screen now shows your estimate cause of death.
 --
 A low detail option will be added for low end devices soon on a later update.
+--
+The next update will be release later today or tomorrow
