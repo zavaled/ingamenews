@@ -1,8 +1,3 @@
-The 1.3 update is now out with a lot of new features on new servers only!
-Servers will not be restarted as there are not many players right now [10:10 pm PST]
-Low detail and other small stuff will come on a later update patch
-Enjoy!
---
 Small Patch changes:
 NVGs Can now alert if rake is about to go into Carnage or #########
 Rake now correctly looks at the nearest player when stunned
@@ -12,4 +7,6 @@ Strongbone doesn't take that much of jump power now
 Added "stuff" that can happen from day 100-500
 Fixed bug where you would spawn at a black box
 --
-Next update will come soon
+Seasonal events may happen which could include exclusive perm event items
+--
+Next update will be released in a few days
