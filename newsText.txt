@@ -7,6 +7,15 @@ Strongbone doesn't take that much of jump power now
 Added "stuff" that can happen from day 100-500
 Fixed bug where you would spawn at a black box
 --
-Seasonal events may happen which could include exclusive perm event items
---
-Next update will be released in a few days
+1.4 Update log:
+New "Item Management" menu which allows you to:
+Drop Cash [$30 Minimum]
+Drop Scrap [3 Minimum]
+Drop Iron Scrap [3 Minimum]
+Which can let players trade for items and such that gives more possibilities
+Rake's footsteps are now louder
+NVGs now beep if a blood night will happen
+Nametag system changes and fixes
+Rake changes
+
+*Only on new servers, no shutdown. More soon.
