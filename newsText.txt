@@ -16,6 +16,17 @@ Fixed Nametags
 Rake will now super roar more often when stuck
 Premium "Night End" reward changed: 10 > 20
 Premium join reward: 40 > 50
+--
+06/30 Patch:
+Rake Behaviour changes
+New Rake SFX
+Rake's HP Nerfed
+Sneaking rake nerfed
+Rake's charged roar attack preparing time buffed
+Global Cash saving
+Drop rates for scrap and mushrooms, etc. has been increased
+Green Flare Gun's chance has been increased
+Fixed generator's bright bloom
+New VFX
 
-*Only on new servers, no shutdown. More soon.
-*Check out "ZRK: Versus - Beta" if you want to play as rake or special classes.
+*Only on new servers
