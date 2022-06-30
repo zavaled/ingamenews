@@ -14,6 +14,5 @@ New VFX
 
 A NEW MODE WILL COME SOON
 
-IF YOU SEE TERRAIN CHANGE THAT MEANS I AM EXPERIMENTING WITH IT DON'T WORRY
-
-Note: /save doesn't do anything!
+Items save ONLY when you leave at day time,
+/save doesn't do anything!
