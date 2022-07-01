@@ -13,6 +13,8 @@ New VFX
 --
 
 A NEW MODE WILL COME SOON
-
+*
+TOP 3 PLAYERS ON SURVIVAL LEADERBOARDS WILL RECEIVE A SPECIAL ITEM NEXT UPDATE, HIGHER RANK = BETTER ITEM, GOOD LUCK!
+*
 Items save ONLY when you leave at day time,
 /save doesn't do anything!
