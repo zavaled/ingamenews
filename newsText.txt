@@ -1,20 +1,4 @@
-06/30 Patch:
-Rake Behaviour changes
-New Rake SFX
-Rake's HP Nerfed
-Sneaking rake nerfed
-Rake's charged roar attack preparing time buffed
-Global Cash saving
-Drop rates for scrap and mushrooms, etc. has been increased
-Green Flare Gun's chance has been increased
-Fixed generator's bright bloom
-New VFX
-
---
-
-A NEW MODE WILL COME SOON
-*
-TOP 3 PLAYERS ON SURVIVAL LEADERBOARDS WILL RECEIVE A SPECIAL ITEM NEXT UPDATE, HIGHER RANK = BETTER ITEM, GOOD LUCK!
-*
-Items save ONLY when you leave at day time,
-/save doesn't do anything!
+Rake: ZRK 1.4 UPDATE NEWS
+COMING OUT THIS MONDAY [OR SO I HOPE]
+THIS WILL ADD A LOT OF NEW FEATURES
+STAY TUNE
