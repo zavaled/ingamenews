@@ -1,1 +1,20 @@
-1.4 UPDATE HAS BEEN RELEASED
+1.4 PATCH 1:
+-New Icons for Items:
+Blue flare gun
+Green flare gun
+Bronze Trophy
+Silver Trophy
+Gold Trophy
+Crowbar
+Silver Crowbar
+-Electrified Baton Buff:
+Less stamina consumption
+More Damage
+-Happy Day tweaks:
+fixed flare guns
+-New Strongbone Perk Addition:
+Regenerate a bit of stamina when damaged (depends on how much damage you receive)
+-Get-Up Perk Buff:
+You now heal x3 faster when downed
+-New Nightfall SFX
+-Fixed some bugs
