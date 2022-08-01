@@ -18,3 +18,6 @@ Regenerate a bit of stamina when damaged (depends on how much damage you receive
 You now heal x3 faster when downed
 -New Nightfall SFX
 -Fixed some bugs
+-------------------
+Your doom badge and award completely removed because people survived it from a hacker glitching rake.
+(You will still get the 500 Cash Reward)
