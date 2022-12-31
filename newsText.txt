@@ -1,23 +1,13 @@
-1.4 PATCH 1:
--New Icons for Items:
-Blue flare gun
-Green flare gun
-Bronze Trophy
-Silver Trophy
-Gold Trophy
-Crowbar
-Silver Crowbar
--Electrified Baton Buff:
-Less stamina consumption
-More Damage
--Happy Day tweaks:
-fixed flare guns
--New Strongbone Perk Addition:
-Regenerate a bit of stamina when damaged (depends on how much damage you receive)
--Get-Up Perk Buff:
-You now heal x3 faster when downed
--New Nightfall SFX
--Fixed some bugs
--------------------
-Your doom badge and award completely removed because people survived it from a hacker glitching rake.
-(You will still get the 500 Cash Reward)
+2022 WINTER UPDATE!!
+
+Epic mountain biomes
+New first person camera effects
+third person is only available on day, you get locked in first person at night [OPEN A MENU BY PRESSING ONE OF THE HOTKEYS: "V" "B" "N" "M" TO UNLOCK YOUR MOUSE]
+New christmas rake
+New snow effects!!
+New animations
+Bug fixes
+Rake attack changes
+Location changes
+Map changes
+- more stuff!
