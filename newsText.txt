@@ -1,5 +1,7 @@
 2022 WINTER UPDATE!!
-
+--
+New starter kit gamepass buy it!!!
+--
 Epic mountain biomes
 New first person camera effects
 third person is only available on day, you get locked in first person at night [OPEN A MENU BY PRESSING ONE OF THE HOTKEYS: "V" "B" "N" "M" TO UNLOCK YOUR MOUSE]
@@ -10,4 +12,4 @@ Bug fixes
 Rake attack changes
 Location changes
 Map changes
-- more stuff!
+more stuff!
